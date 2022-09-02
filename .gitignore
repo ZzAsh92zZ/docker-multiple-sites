@@ -1,0 +1,4 @@
+.idea
+/nginx/ssl/dhparam.pem
+/nginx/ssl/wildcard.crt
+/nginx/ssl/wildcard.key
